@@ -25,3 +25,7 @@
   right: 18px;
   top: 50px;
 }
+
+.screen-header__icons span i {
+  color: black;
+}
